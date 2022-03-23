@@ -41,7 +41,7 @@ While performing this challenge, the main challenge I encountered was inputting 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-The colder months are less likely to yield a succesful outcome as there are significantly less succesful projects in these months wheh compared to the warnmer Summer and Spring months. We can conclude the best months to start a kickstarter campaign are the warmer late spring and summer months. 
+The colder months are less likely to yield a succesful outcome as there are significantly less succesful projects in these months when compared to the warnmer Summer and Spring months. We can conclude the best months to start a kickstarter campaign are the warmer late spring and summer months. 
 
 - What can you conclude about the Outcomes based on Goals?
 
